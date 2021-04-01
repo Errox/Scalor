@@ -1,5 +1,5 @@
 package RjAvans
-
+// This package contains the OO solution to RxAvans
 object Main extends App {
   val pg = new PersonGenerator("https://randomuser.me/api/?format=csv&results=10&inc=name,nat,email")
 
