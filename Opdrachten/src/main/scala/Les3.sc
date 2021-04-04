@@ -99,3 +99,6 @@ def showNamesWithYorQ(names: List[String]) : List[String] =
     for (name <- names if name.toLowerCase.contains('y') ~~ name.toLowerCase.contains('q')) yield name(1)
 
 showNamesWithYorQ(List("Ruud", "Dion", "Quincy", "Youssef"))
+
+
+
