@@ -28,3 +28,16 @@ def swap[A,B](l: List[(A,B)]): List[(B,A)] =
 
 val l2 = List((6,5), (4,2),(8,6))
 swap(l2)
+
+
+// swap
+// swap(Nil) => Nil
+// swap(head::tail) => head swapped :: swap(tail)
+def swapTail[A,B](l: List[(A,B)], result: List[(B,A)] = Nil): List[(B,A)] =
+  l match {
+    case Nil => result
+    case (a,b)::tail => swapTail(tail, result:+(b,a))
+  }
+
+val l3 = List((6,5), (4,2),(8,6))
+swapTail(l3)
