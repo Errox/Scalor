@@ -1,0 +1,47 @@
+Dit is het tentamen van functioneel programmeren 2020 - 2021 Kans 1
+
+Er zijn twee delen van dit tentamen.
+
+Het eerste deel beslaat vragen 1 t/m 4 en is 50 begripspunten waard.
+Om te slagen voor het vak heb je van dit onderdeel 35 van de 50 punten nodig.
+Deze vragen lijken op huiswerkvragen en zijn bedoeld om je begrip te toetsen.
+
+Het tweede deel beslaat vraag 5 en is 50 RxAvanspunten waard.
+Om te slagen voor het vak heb je van dit onderdeel 28 van de 50 punten nodig.
+Deze vraag is een uitbreiding op de RxAvans library die we tijdens de lessen hebben ontwikkeld.
+
+Als je aan beide drempels voldoet krijg je een cijfer volgens:
+cijfer = (begripspunten + RxAvanspunten - 63) / 47 * 4,5 + 5,5
+
+Schrijf de code van vragen 1 t/m 4 in de worksheets die gegeven zijn.
+Schrijf de code van vraag 5 in de bestanden Main.scala en in RxAvans.scala.
+
+Lever alleen deze bestanden in via Blackboard in een zip.
+NIET DE HELE PROJECTMAP A.U.B.!
+
+Heel veel succes!
+
+
+Puntenoverzicht:
+vraag 1 : 6 begripspuntdden
+    a: 2 begripspunten
+    b: 2 begripspunten
+    c: 2 begripspunten
+vraag 2 : 21 begripspunten
+    a: 3 begripspunten
+    b: 3 begripspunten
+    c: 3 begripspunten
+    d: 3 begripspunten
+    e: 3 begripspunten
+    f: 3 begripspunten
+    g: 3 begripspunten
+vraag 3 : 13 begripspunten
+    a: 5 begripspunten
+    b: 8 begripspunten
+vraag 4 : 10 begripspunten
+    a: 5 begripspunten
+    b: 5 begripspunten
+vraag 5 : 50 RxAvanspunten
+    a: 20 RxAvanspunten
+    b: 20 RxAvanspunten
+    c: 10 RxAvanspunten
